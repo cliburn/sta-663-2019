@@ -98,8 +98,6 @@
 - Using `itertools`
 - Pipelines with `toolz`
 
-Exercise: Find the 10-digit number(s) made up from the digits 0-9 with the property that number made up from the first $k$ digits is divisible by $k$. For example, if a number started with 1236, it fits the rule for the first 4 digits since 1 is divisible by 1, 12 is divisible by 2, 123 is divisible by 3 and 1236 is divisible by 4.
-
 ### Midterm 1 (15%)
 
 ## Explain how common statistical algorithms work
