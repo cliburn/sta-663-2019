@@ -98,7 +98,7 @@
 - Using `itertools`
 - Pipelines with `toolz`
 
-### Midterm 1 (15%)
+### Midterm 1 (15%) 01 Feb
 
 ## Explain how common statistical algorithms work
 
@@ -166,7 +166,7 @@
 - Gaussian process
 - Using `scipy.interpolate`
 
-### Clustering
+### Clustering  
 
 - Partitioning (k-means)
 - Hierarchical (agglomerative Hierarchical Clustering)
@@ -178,7 +178,7 @@
 - Cluster alignment (Munkres)
 - Using `skearn.cluster`
 
-### Midterm 2 (15%)
+### Midterm 2 (15%) 01 March 2019
 
 ## Construct models using probabilistic programming
 
