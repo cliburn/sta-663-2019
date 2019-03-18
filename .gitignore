@@ -1,3 +1,9 @@
+hello*
+Makefile
+string_utils*
+*cpp
+*hpp
+
 .DS_Store
 notebook/foo.py
 notebook/haiku.txt
