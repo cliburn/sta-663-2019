@@ -3,6 +3,17 @@ Makefile
 string_utils*
 *cpp
 *hpp
+*exe
+*\.o
+ex1
+func02
+*svg
+norm_data.txt
+result.txt
+data.txt
+test_func02
+Makefile2
+eigen/
 
 .DS_Store
 notebook/foo.py
