@@ -17,6 +17,9 @@ eigen/
 stats/
 notebook/S12C_CPP_Concepts.ipynb
 notebook/Untitled.ipynb
+notebook/b.txt
+notebook/x.txt
+notebook/y.txt
 
 .DS_Store
 notebook/foo.py
