@@ -14,6 +14,9 @@ data.txt
 test_func02
 Makefile2
 eigen/
+stats/
+notebook/S12C_CPP_Concepts.ipynb
+notebook/Untitled.ipynb
 
 .DS_Store
 notebook/foo.py
