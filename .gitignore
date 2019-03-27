@@ -1,6 +1,10 @@
 hello*
 Makefile
 string_utils*
+*cpp.cppimporthash
+setup.py
+ex[0-9]*
+test_code.py
 *cpp
 *hpp
 *exe
